@@ -1,4 +1,7 @@
 # base_config CHANGELOG
+## 0.1.2
+- Added chef-client cookbook dependency
+
 ## 0.1.1
 - Creation of hdp and cdh cluster recipes
 
